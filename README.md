@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm [Anggra or Ragha]!
 
-<!--
-**Hakumaryu/Hakumaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- 🎓 **Background**: [a student at pahlawan university, majoring in informatics engineering]
+- 🌱 **Currently Studying**: [what I'm currently studying, code learning, web development]
+- 🚀 **Interests**: [I'm interested in, Game Development, AI, Web Development]
+- 🌍 **Languages I'm learning**: [Languages I want to learn, English, Japanese, Russian, Indonesian]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎨 My Hobbies
+- 👨‍🍳 **Cooking**
+-🎮 **Playing video games**
+- 📚 **Reading comics**
+- ✈️ **Traveling**
+
+## 📫 Contact us
+- 📧 Email: [noviaragha@example.com]
+- 🌐 Instagram: [https://www.instagram.com/anggradistira/]
+- 💼 mySaweria: [https://saweria.co/AnggraDistira]
+
+## 💡 Fun Facts
+[I love rpg games!"]
+
+---
+
+✨ _Explore my repository and contribute to open source projects together!
