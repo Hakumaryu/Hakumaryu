@@ -15,12 +15,12 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - ✈️ **Traveling**
 
 ## 📫 Contact us
-- 📧 Email: [noviaragha@example.com]
+- 📧 Email: [noviaragha@gmail.com]
 - 🌐 Instagram: [https://www.instagram.com/anggradistira/]
 - 💼 mySaweria: [https://saweria.co/AnggraDistira]
 
 ## 💡 Fun Facts
-[I love rpg games!"]
+[I love cat!"]
 
 ---
 
